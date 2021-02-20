@@ -1,0 +1,28 @@
+.node {
+    display:inline-block;
+    margin:0;
+    padding:0;
+    outline: 1px solid lightblue;
+    width: 20px;
+    height: 20px;
+}
+
+.start {
+    background-color:green;
+}
+
+.end {
+    background-color: red;
+}
+
+.visited {
+    background-color:rgb(79, 23, 131);
+}
+
+.shortestPath {
+    background-color: aqua;
+}
+
+.wall {
+    background-color: black;
+}
